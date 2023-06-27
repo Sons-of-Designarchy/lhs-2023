@@ -152,6 +152,10 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--purple-light) !important;
 }
 
+.text-w{
+  color:var(--white) !important;
+}
+
 .font-xxs {
   font-size: 0.6rem !important;
 }
