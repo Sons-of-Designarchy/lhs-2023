@@ -127,4 +127,8 @@ module.exports = {
         title: "Aviso de privacidad  - La hora SAT® 🤓 ",
         main: 'aviso-de-privacidad/index',
     },
+    'vacante-contabilidad': {
+        title: "Vacante Contabilidad  - La hora SAT® 🤓 ",
+        main: 'Vacante-contabilidad/index',
+    },
 }
