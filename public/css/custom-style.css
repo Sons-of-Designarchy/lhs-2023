@@ -798,3 +798,8 @@ ul {
   width: 1.5rem;
   height: 1.5rem;
 }
+
+.white-box {
+  background: #fff;
+  box-shadow: 0 10px 10px rgba(0,0,0,.05);
+}
