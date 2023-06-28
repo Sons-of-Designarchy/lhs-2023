@@ -129,6 +129,6 @@ module.exports = {
     },
     'vacante-contabilidad': {
         title: "Vacante Contabilidad  - La hora SAT® 🤓 ",
-        main: 'Vacante-contabilidad/index',
+        main: 'vacante-contabilidad/index',
     },
 }
