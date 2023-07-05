@@ -812,7 +812,7 @@ ul {
     display: inline-block;
     position: relative;
     margin-top: 45%;
-    margin-left: 95%;
+    margin-left: 92%;
     background-color: var(--green);
     border-color: var(--purple);
     border-radius: 25px;
@@ -855,6 +855,8 @@ ul {
     display: none;
   }
 }
+
+
 @media (max-width:991.5px){
   .ws-btn-mb {
     display: flex;
