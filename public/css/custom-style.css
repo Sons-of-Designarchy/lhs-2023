@@ -116,7 +116,6 @@ h6 {
 
 button {
   background: none;
-  border: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -802,4 +801,182 @@ ul {
 .white-box {
   background: #fff;
   box-shadow: 0 10px 10px rgba(0,0,0,.05);
+}
+
+@media (min-width:992px){
+  .ws-btn{
+    float:right;
+  }
+  
+  .ws-btn {
+    display: inline-block;
+    position: relative;
+    margin-top: 45%;
+    margin-left: 95%;
+    background-color: var(--green);
+    border-color: var(--purple);
+    border-radius: 25px;
+    width: 64.34px;
+    height: 60px;
+    line-height: 55px;
+    transition: all 0.5s;
+  }
+  
+  /*.ws-btn:hover {
+    position: relative;
+    background-color: var(--green);
+    border-color: var(--purple);
+    border-radius: 25px;
+    width: 205px;
+    height: 60px;
+    line-height: 55px;
+  }
+  
+  .txte  {
+    font-size: large;
+  }
+  
+  .txte:hover:before {
+    content: "CONTÁCTANOS  ";
+    color: #603dbd;
+    font-size: 100%;
+  }*/
+  
+  .icon { 
+   align-items: center;
+  }
+  .ws-btn-mb {
+    visibility:hidden;
+  }
+  .number-mb {
+    visibility:hidden;
+  }
+  .dp-n{
+    display: none;
+  }
+}
+@media (max-width:991.5px){
+  .ws-btn-mb {
+    display: flex;
+    position: relative;
+    background-color: #55F490;
+    border: 3.271730661392212px solid var(--purple);
+    border-radius: 90px;
+    max-width: 100%;
+    padding-left: 3%;
+    padding-right: 3%;
+    height: 40px;
+    line-height: 55px;
+
+  }
+  .icon-mb{
+    align-items: center;
+  }
+  .ico-mb{
+    background-image: url("../img/wss-vec/ws-vector-mb.svg");
+    background-repeat: no-repeat;
+  }
+  .span-m{
+    font-size: 100%;
+    font-weight: bold;
+    color: #603dbd;
+  }
+  .bt-bm{
+    margin: 0px;
+    border-color: #00000000;
+  }
+  .img-w{
+    width: 12%;
+  }
+}
+
+@media (max-width:500px){
+  .span-m{
+    font-size: 58%;
+    font-weight: bold;
+    color: #603dbd;
+  }
+  .img-w{
+    width: 12%;
+  }
+}
+
+@media (max-width:400px){
+  .span-m{
+    font-size: 44%;
+    font-weight: bold;
+    color: #603dbd;
+    content: "+52 1 55 4006 2850";
+  }
+  .img-w{
+    width: 15%;
+  }
+}
+
+@media (max-width:368px){
+  .ws-btn-mb {
+    position: relative;
+    background-color: #55F490;
+    border: 3.271730661392212px solid var(--purple);
+    border-radius: 90px;
+    max-width: 80%;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 40px;
+    line-height: 55px;
+
+  }
+  .span-m{
+    font-size: 38%;
+    font-weight: bold;
+    color: #603dbd;
+    content: "+52 1 55 4006 2850";
+  }
+  .img-w{
+    width: 100%;
+  }
+  .dp-nm{
+    display: none;
+  }
+}
+
+@media (max-width:300px){
+  .ws-btn-mb {
+    position: relative;
+    background-color: #55F490;
+    border: 3.271730661392212px solid var(--purple);
+    border-radius: 90px;
+    max-width: 40%;
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 30px;
+    line-height: 55px;
+  }
+  .img-w{
+    width: 100%;
+  }
+  .dp-nm{
+    display: none;
+  }
+}
+
+@media (max-width:200px){
+  .ws-btn-mb {
+    position: relative;
+    background-color: #55F490;
+    border: 3.271730661392212px solid var(--purple);
+    border-radius: 90px;
+    max-width: 40%;
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 20px;
+    line-height: 55px;
+
+  }
+  .img-w{
+    width: 100%;
+  }
+  .dp-nm{
+    display: none;
+  }
 }
