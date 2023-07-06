@@ -101,7 +101,7 @@ module.exports = {
     },
     'regimenes-fiscales': {
         title: "regimenes-fiscales - La hora SAT® 🤓 ",
-        main: 'regimenes-fiscales/index',
+        main: 'blog/regimenes-fiscales/index',
     },
     'tags': {
         title: "tags - La hora SAT® 🤓 ",
