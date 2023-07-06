@@ -51,45 +51,53 @@ module.exports = {
         title: "Page not found",
         main: '404'
     },
-    'blog-resico': {
+    'blog/Resico': {
         title: "Resico - La hora SAT® 🤓 ",
-        main: 'resico/index',
+        main: 'blog/resico/index',
     },
-    'blog-regimenes': {
+    'blog/Regimenes': {
         title: "Regimenes - La hora SAT® 🤓 ",
-        main: 'regimenes/index',
+        main: 'blog/regimenes/index',
     },
-    'blog-opinion': {
+    'blog/Opinion': {
         title: "Opinion - La hora SAT® 🤓 ",
-        main: 'opinion/index',
+        main: 'blog/opinion/index',
     },
-    'blog-pedir-facturas': {
+    'blog/Pedir-facturas': {
         title: "Como pedir tus facturas - La hora SAT® 🤓 ",
-        main: 'pedir-facturas/index',
+        main: 'blog/pedir-facturas/index',
     },
-    'blog-evadir-al-sat': {
+    'blog/Evadir-al-sat': {
         title: "Evadir al SAT? - La hora SAT® 🤓 ",
-        main: 'evadir/index',
+        main: 'blog/evadir/index',
     },
-    'blog-IVA': {
+    'blog/IVA': {
         title: "IVA - La hora SAT® 🤓 ",
-        main: 'iva/index',
+        main: 'blog/iva/index',
     },
-    'blog-deducciones-tipos': {
+    'blog/Deducciones-tipos': {
         title: " Tipos de deducciones - La hora SAT® 🤓 ",
-        main: 'deducciones/index',
+        main: 'blog/deducciones/index',
     },
-    'blog-ISR': {
+    'blog/ISR': {
         title: "ISR - La hora SAT® 🤓 ",
-        main: 'isr/index',
+        main: 'blog/isr/index',
     },
-    'blog-pagan-isr': {
+    'blog/Pagan-isr': {
         title: "Ingresos en ISR - La hora SAT® 🤓 ",
-        main: 'ingresos-isr/index',
+        main: 'blog/ingresos-isr/index',
     },
-    'blog-glosario': {
+    'blog/Glosario': {
         title: "Glosario - La hora SAT® 🤓 ",
-        main: 'glosario/index',
+        main: 'blog/glosario/index',
+    },
+    'blog/restaurantesdeducciones': {
+        title: "Restaurantes deducciones - La hora SAT® 🤓 ",
+        main: 'blog/restaurantes/index',
+    },
+    'blog/frelancersdeducciones': {
+        title: "Freelancers deducciones - La hora SAT® 🤓 ",
+        main: 'blog/freelancers/index',
     },
     'regimenes-fiscales': {
         title: "regimenes-fiscales - La hora SAT® 🤓 ",
