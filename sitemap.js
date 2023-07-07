@@ -99,6 +99,14 @@ module.exports = {
         title: "Freelancers deducciones - La hora SAT® 🤓 ",
         main: 'blog/freelancers/index',
     },
+    'blog/devolucion-rechazada': {
+        title: " - La hora SAT® 🤓 ",
+        main: 'blog/devolucion_rechazada/index',
+    },
+    'blog/aguinaldo': {
+        title: " - La hora SAT® 🤓 ",
+        main: 'blog/aguinaldo/index',
+    },
     'regimenes-fiscales': {
         title: "regimenes-fiscales - La hora SAT® 🤓 ",
         main: 'blog/regimenes-fiscales/index',
