@@ -100,11 +100,11 @@ module.exports = {
         main: 'blog/freelancers/index',
     },
     'blog/devolucion-rechazada': {
-        title: " - La hora SAT® 🤓 ",
+        title: "Devolucion rechazada - La hora SAT® 🤓 ",
         main: 'blog/devolucion_rechazada/index',
     },
     'blog/aguinaldo': {
-        title: " - La hora SAT® 🤓 ",
+        title: "Aguinaldo - La hora SAT® 🤓 ",
         main: 'blog/aguinaldo/index',
     },
     'regimenes-fiscales': {
