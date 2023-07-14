@@ -107,6 +107,14 @@ module.exports = {
         title: "Aguinaldo - La hora SAT® 🤓 ",
         main: 'blog/aguinaldo/index',
     },
+    'blog/cobrar-servicio': {
+        title: "Cobrar tus servicios - La hora SAT® 🤓 ",
+        main: 'blog/cobrarservicio/index',
+    },
+    'blog/tres-formas-sat': {
+        title: "formas en que el sat - La hora SAT® 🤓 ",
+        main: 'blog/formasat/index',
+    },
     'regimenes-fiscales': {
         title: "regimenes-fiscales - La hora SAT® 🤓 ",
         main: 'blog/regimenes-fiscales/index',
