@@ -100,12 +100,20 @@ module.exports = {
         main: 'blog/freelancers/index',
     },
     'blog/devolucion-rechazada': {
-        title: " - La hora SAT® 🤓 ",
+        title: "Devolucion rechazada - La hora SAT® 🤓 ",
         main: 'blog/devolucion_rechazada/index',
     },
     'blog/aguinaldo': {
-        title: " - La hora SAT® 🤓 ",
+        title: "Aguinaldo - La hora SAT® 🤓 ",
         main: 'blog/aguinaldo/index',
+    },
+    'blog/cobrar-servicio': {
+        title: "Cobrar tus servicios - La hora SAT® 🤓 ",
+        main: 'blog/cobrarservicio/index',
+    },
+    'blog/tres-formas-sat': {
+        title: "formas en que el sat - La hora SAT® 🤓 ",
+        main: 'blog/formasat/index',
     },
     'regimenes-fiscales': {
         title: "regimenes-fiscales - La hora SAT® 🤓 ",
