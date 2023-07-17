@@ -804,14 +804,11 @@ ul {
 }
 
 @media (min-width:992px){
-  .ws-btn{
-    float:right;
-  }
-  
   .ws-btn {
     display: inline-block;
     position: relative;
-    margin-top: 43%;
+    bottom: 1rem;
+    right: 1rem;
     margin-left: 93%;
     background-color: var(--green);
     border-color: var(--purple);
