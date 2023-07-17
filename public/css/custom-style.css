@@ -809,7 +809,6 @@ ul {
     position: relative;
     bottom: 1rem;
     right: 1rem;
-    margin-left: 93%;
     background-color: var(--green);
     border-color: var(--purple);
     border-radius: 25px;
