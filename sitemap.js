@@ -115,6 +115,14 @@ module.exports = {
         title: "formas en que el sat - La hora SAT® 🤓 ",
         main: 'blog/formasat/index',
     },
+    'blog/mejorar-finanzas': {
+        title: "Tips - La hora SAT® 🤓 ",
+        main: 'blog/tips/index',
+    },
+    'blog/opinion-cumplimiento': {
+        title: "Cumplimiento - La hora SAT® 🤓 ",
+        main: 'blog/cumplimiento/index',
+    },
     'regimenes-fiscales': {
         title: "regimenes-fiscales - La hora SAT® 🤓 ",
         main: 'blog/regimenes-fiscales/index',
